@@ -2,6 +2,10 @@
 // var number2=56;
 // document.write(number1+number2);
 
+// var number1=34;
+// var number2=56;
+// document.write(number1+number2);
+
 // var marks = {
 //     ravi: 50,
 //     raveena:78,
