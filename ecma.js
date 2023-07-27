@@ -53,5 +53,11 @@
 // let arrc2 = [...arrc1, 4, 5];
 // console.log(arrc2);
 
-let number = -5.55;
+//  let number = -5.55;
+// console.log(Math.sign(number));
+
+// let number = -0;
+// console.log(Math.sign(number));
+
+let number = 5.56;
 console.log(Math.sign(number));
